@@ -1,4 +1,4 @@
-hello its ava and want to test
+hello its ava and wants to test
 # Bestoon
 
 A simple Income and Expense system.
